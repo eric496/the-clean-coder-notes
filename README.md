@@ -1,6 +1,24 @@
 # the-clean-coder-notes
 Notes on The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin (Uncle Bob)
 
+## Table of Contents  
+- [Chapter 1: Professionalism](#chapter-1-professionalism)  
+- [Chapter 2: Saying No](#chapter-2-saying-no)  
+- [Chapter 3: Saying Yes](#chapter-3-saying-yes)  
+- [Chapter 4: Coding](#chapter-4-coding)  
+- [Chapter 5: Test-Driven Development (TDD)](#chapter-5-test-driven-development-tdd)  
+- [Chapter 6: Practicing](#chapter-6-practicing)  
+- [Chapter 7: Acceptance Testing](#chapter-7-acceptance-testing)  
+- [Chapter 8: Testing Strategies](#chapter-8-testing-strategies)  
+- [Chapter 9: Time Management](#chapter-9-time-management)  
+- [Chapter 10: Estimation](#chapter-10-estimation)  
+- [Chapter 11: Handling Pressure](#chapter-11-handling-pressure)  
+- [Chapter 12: Collaboration](#chapter-12-collaboration)  
+- [Chapter 13: Teams and Projects](#chapter-13-teams-and-projects)  
+- [Chapter 14: Mentoring and Leadership](#chapter-14-mentoring-and-leadership)  
+- [Chapter 15: Ethics in Software Development](#chapter-15-ethics-in-software-development)  
+
+
 ## Chapter 1: Professionalism  
 ### Overview  
 This chapter defines **what it means to be a professional software developer**. Uncle Bob emphasizes that professionalism goes beyond technical skills—it includes responsibility, discipline, integrity, and continuous learning.  
